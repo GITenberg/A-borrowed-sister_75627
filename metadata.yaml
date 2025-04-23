@@ -1,0 +1,59 @@
+_repo: A-borrowed-sister_75627
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Pyle, Katharine
+    alias: Pyle, Katherine
+    birthdate: 1863
+    deathdate: 1938
+    gutenberg_agent_id: '1139'
+    url: http://www.gutenberg.org/2009/agents/1139
+    wikipedia: https://en.wikipedia.org/wiki/Katharine_Pyle
+creator:
+  author:
+    agent_name: White, Eliza Orne
+    birthdate: 1856
+    deathdate: 1947
+    gutenberg_agent_id: '9552'
+    url: http://www.gutenberg.org/2009/agents/9552
+    wikipedia: https://en.wikipedia.org/wiki/Eliza_Orne_White
+description: 'Reading ease score: 89.6 (6th grade). Easy to read.'
+gutenberg_bookshelf: 'Browsing: Children & Young Adult Reading'
+gutenberg_issued: '2025-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75627'
+  lccn: 06032108
+language: en
+pgterms:marc904: https://archive.org/details/borrowedsister00whit_0/page/n1/mode/2up
+pgterms:marc905: 20250129133213white
+pgterms:marc906: '1906'
+pgterms:marc907: US
+production_note: Susan E., David E. Brown, Rod Crawford, and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive)
+publication_note: '  $aBoston :$bHoughton Mifflin Company, $c1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sisters -- Juvenile fiction'
+- !lcsh 'Only child -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+summary: '"A Borrowed Sister" by Eliza Orne White is a children''s novel written in
+  the early 20th century. The story revolves around Lois Page, an only child who is
+  thrilled to welcome a "borrowed sister," Jessie Matthews, into her home while Jessie''s
+  family is temporarily away. As the two girls navigate their new friendship, the
+  narrative explores themes of companionship, childhood adventures, and the joys and
+  challenges of sharing a living space.  At the start of the novel, Lois is excited
+  about Jessie''s impending arrival and begins to prepare for her new sister''s stay,
+  noting the differences between Jessie and her other friend, Ellen. While Jessie
+  is calm and agreeable, Ellen has a more complex friendship with Lois due to her
+  unpredictable temper. The opening chapters highlight the three girls'' interactions
+  as they express their feelings about the changes in their relationships while managing
+  their emotions and preparing for the addition of Jessie to their lives. This charming
+  beginning sets the stage for a heartwarming exploration of friendship and growing
+  up. (This is an automatically generated summary.)'
+title: A borrowed sister
+url: http://www.gutenberg.org/ebooks/75627

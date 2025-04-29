@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '1139'
     url: http://www.gutenberg.org/2009/agents/1139
     wikipedia: https://en.wikipedia.org/wiki/Katharine_Pyle
+covers:
+- cover_type: archival
+  image_path: 75627-h/images/cover.jpg
 creator:
   author:
     agent_name: White, Eliza Orne
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9552
     wikipedia: https://en.wikipedia.org/wiki/Eliza_Orne_White
 description: 'Reading ease score: 89.6 (6th grade). Easy to read.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75627#A-borrowed-sister
 gutenberg_bookshelf: 'Browsing: Children & Young Adult Reading'
 gutenberg_issued: '2025-03-16'
 gutenberg_type: Text
